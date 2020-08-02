@@ -1,0 +1,7 @@
+D:\DotNetConsoleApps\ConsProgramAss\ConsProgramAss\bin\Debug\ConsProgramAss.exe.config
+D:\DotNetConsoleApps\ConsProgramAss\ConsProgramAss\bin\Debug\ConsProgramAss.exe
+D:\DotNetConsoleApps\ConsProgramAss\ConsProgramAss\bin\Debug\ConsProgramAss.pdb
+D:\DotNetConsoleApps\ConsProgramAss\ConsProgramAss\obj\Debug\ConsProgramAss.csprojAssemblyReference.cache
+D:\DotNetConsoleApps\ConsProgramAss\ConsProgramAss\obj\Debug\ConsProgramAss.csproj.CoreCompileInputs.cache
+D:\DotNetConsoleApps\ConsProgramAss\ConsProgramAss\obj\Debug\ConsProgramAss.exe
+D:\DotNetConsoleApps\ConsProgramAss\ConsProgramAss\obj\Debug\ConsProgramAss.pdb
